@@ -1,0 +1,19 @@
+.divider{
+    border-bottom: 1px solid gray;
+}
+.cart-items-container{
+    height: 676px;
+    overflow-x: hidden;
+    overflow-y:scroll ;
+}
+.row-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    
+}
+select{
+    color: orangered;
+    font-weight: bold;
+}
